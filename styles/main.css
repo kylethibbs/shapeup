@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica,sans-serif;
+    font-size:100%;
+}
+
+h1{
+    
+}
+header img{
+    float:left;
+
+}
+
+header h2{
+    font-size: 250%;
+    
+}
+
+header h3{
+    font-size: 150%;
+}
+
+/* unvisited link */
+section a:link {
+    color: steelblue;
+}
+
+/* visited link */
+section a:visited {
+    color:maroon;
+}
+
+/* mouse over link */
+section a:hover {
+    color:steelblue;
+}
+
+/* selected link */
+section a:active {
+    color: #0000FF;
+}
+
+/* unvisited link */
+aside a:link {
+    color: steelblue;
+}
+
+/* visited link */
+aside a:visited {
+    color:orange;
+}
+
+/* mouse over link */
+aside a:hover {
+    color:steelblue;
+}
+
+/* selected link */
+aside a:active {
+    color: #0000FF;
+}
+
+footer{
+    text-align: center;
+    font-size: 70%;
+}
+
